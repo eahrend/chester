@@ -1,0 +1,5 @@
+service-account.json
+quickstart.sh
+mysql-scaler-tester/
+docker.sh
+.idea/
